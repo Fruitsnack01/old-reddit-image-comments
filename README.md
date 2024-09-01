@@ -1,6 +1,6 @@
-# Old Reddit Image Comments
+# Old Reddit Image Fix
 
-A simple userscript to view images in comments on the old Reddit website
+A simple userscript for fixing images in comments and certain posts on the old Reddit site
 
 ## Installation
 
